@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,9 @@
   "bugs": {
     "url": "https://github.com/papiblanco/papiblanco.github.io/issues"
   },
-  "homepage": "https://papiblanco.github.io/SassTutorial2",
+  "homepage": "https://janobellss.github.io/sass-tutorial",
   "dependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "devDependencies": {}
 }
